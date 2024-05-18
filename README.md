@@ -59,8 +59,8 @@ Tailwind CSS is used throughout the application to provide styling for the compo
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/20AbhishekRoka02/mou-generator-frontend-code.git
+   cd mou-generator-frontend-code
    ```
 
 2. **Install Dependencies:**
